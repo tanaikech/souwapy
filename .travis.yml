@@ -3,4 +3,4 @@ install:
   - pip install souwapy
 
 script:
-  - test_souwa.py
+  - python test_souwa.py
