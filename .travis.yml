@@ -1,3 +1,6 @@
 language: python
+install:
+  - pip install souwapy
 
-script: pytest
+script:
+  - coverage run --source=test_souwa.py setup.py test
