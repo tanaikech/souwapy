@@ -2,6 +2,7 @@ souwapy
 ====
 
 [![Build Status](https://travis-ci.org/tanaikech/souwapy.svg?branch=master)](https://travis-ci.org/tanaikech/souwapy)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 This is a Python's library for summing array elements with high speed by new algorithm. The speed is faster than csv and panbdas module of python and v8 engine of node.js. The souwapy module is 2.3 and 3.1 times faster than csv and pandas module, respectively.
 
