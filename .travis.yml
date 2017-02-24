@@ -3,4 +3,4 @@ install:
   - pip install souwapy
 
 script:
-  - coverage run --source=test_souwa.py setup.py test
+  - test_souwa.py
